@@ -1301,3 +1301,35 @@ C:[27/01/2024 16:55:38.30][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,
 *:[28/01/2024 20:58:45.69][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='26291509' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
 *:[28/01/2024 21:01:56.22][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='26291509' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 21:56:06.97][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='27975141' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 22:00:13.61][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='31701320' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 22:07:07.01][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='26291509' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 22:23:53.07][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='31329859' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:42:22.57][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='26330907' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:44:13.77][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='26330907' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:45:09.47][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='26330907' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:47:13.84][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='31596296' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:48:36.01][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='26330907' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:51:10.02][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='31596296' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:53:25.23][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='31596296' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:55:11.67][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='31596296' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:55:45.08][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='31596296' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 00:13:55.80][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='27296399' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 00:14:48.24][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='27296399' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 00:15:35.18][172.16.4.20][19] select apellidos,nombres,ci_e,exp_e,carrera,apellidos2,nombres2 from dace002 a,tblaca010 b where ci_e='27296399' and a.c_uni_ca=b.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
